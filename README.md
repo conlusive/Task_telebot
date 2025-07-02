@@ -1,4 +1,4 @@
-# Telegram Task_telebot
+# Telegram Task.bot
 
 A simple Telegram bot to manage your tasks.
 
